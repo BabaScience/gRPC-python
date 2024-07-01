@@ -1,6 +1,8 @@
 
 # How to Run this python gPRC code
 
+This project is an api made with gRPC and flask.
+
 ### 1. Generate Python Code from the .proto File
 
 Use the grpcio-tools to generate Python code from your .proto file:
