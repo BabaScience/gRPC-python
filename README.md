@@ -1,7 +1,7 @@
 
 # How to Run this python gPRC code
 
-## 1. Generate Python Code from the .proto File
+### 1. Generate Python Code from the .proto File
 
 Use the grpcio-tools to generate Python code from your .proto file:
 
